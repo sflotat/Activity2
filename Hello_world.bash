@@ -1,2 +1,3 @@
 #!/bin/bash
-echo ("Hello world... in bash")
+TEXTE="Hellow World ... in bash"
+echo $TEXTE
